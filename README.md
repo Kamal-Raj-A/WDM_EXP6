@@ -84,4 +84,5 @@ for result in search_results:
 <img width="903" height="636" alt="Screenshot 2026-08-18 112856" src="https://github.com/user-attachments/assets/6464919c-4ee3-4232-8820-7fb3a2e65a89" />
 
 ### Result:
-        Thus, the implementation of Information Retrieval Using Vector Space Model in Python is executed successfully.
+
+Thus, the implementation of Information Retrieval Using Vector Space Model in Python is executed successfully.
